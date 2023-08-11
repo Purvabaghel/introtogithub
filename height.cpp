@@ -1,0 +1,2 @@
+/*Write a program to calculate the average hight of all the student of the class.
+the number of studentand their height are entered by the students*/
